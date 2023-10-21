@@ -1,1 +1,12 @@
 # CS230
+The Project for this example was to design and analyze the software requirements for the client "The Gaming Room". Their request was to expand their existing web-application to a wider audience by producting a distributable software for their clients.
+
+When I was developing the documentation for this example, I found that I could easily identify design constraints and quickly understand software design patterns. I have always been very detail oriented and being able to quickly identify the limitations and what to focus on/avoid when designing the program was a strong area for me.
+
+When I was in the process of developing the design document for The Gaming Room, I found that the Evaluation and UML design phases were very helpful for making me completely understand and think through every step of the program being developed. 
+
+If I could choose a part of the document to revise, it would be the recommendation section. I feel as though I did not have a complete understanding of all the sections covered and I would like to go through and get a better understanding of how to think about and implement different server operating system architectures.
+
+While writing the design document I was very careful in making sure I was not overlooking any of the user's necessities and to take them into consideration during development. It was difficult and easy to overlook but by being careful and doublechecking each stage of the document I could identify any constraints that the program would face.
+
+During the development of this document I approached designing the software from a slightly different perspective than normal. Normally I am much worried about how many classes I want to create, how to store data in appropriate data structures, what methods I want to create, but during the development of this document it forced me to think differently. Instead of asking how or what it was forcing me to understand why I wanted certain design choices. The development of the document made me think more abstractly than normal and take into considerations factors I would normally only think about after running into a problem. This approach to software design was eye opening for me and I think my favorite part of this project was getting to use the UML designs. I want to implement more UML templates in my future projects and I think it will help me develop into a better programmer.
